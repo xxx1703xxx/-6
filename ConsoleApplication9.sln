@@ -1,4 +1,18 @@
-﻿
+﻿int main()
+{
+	int x, n = 8;
+	cout << "Enter x=";
+	cin >> x;
+	float rez;
+	int sum = 0;
+	{
+		sum = (log(sum) * sin(n * x) + 4 * x, 2);
+	}
+	rez = sum / (x, 4 + 5);
+	cout << "Y=" << rez << endl;
+
+	system("pause"); return 0;
+}
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33027.164
